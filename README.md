@@ -23,3 +23,6 @@
 Запрос на удаление данных DELETE: https://jsonplaceholder.typicode.com/posts/1
 
 ![Delete example](./img/DELETE.png)
+
+### Рассмотрим REST Api Bitrix24
+[REST Api Bitrix24](Bitrix24_REST_API.md)
